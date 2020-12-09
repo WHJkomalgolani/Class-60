@@ -1,0 +1,7 @@
+Class 60 Activity is connnected with Class 58.
+
+When we will click on any buzzer of Class 58 that buzzer color will get added to screen of Class 60.
+Also when we click on reset the database option ,db will get reset.
+
+Database of class 58 and class 60 will remain same.
+
